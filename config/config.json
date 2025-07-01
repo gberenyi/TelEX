@@ -1,0 +1,19 @@
+{
+    "telegram": {
+        "api_key": "1234567890:AAAAAAA-AAAAAAAAAAAAAAAAAAAAAAAAA",
+        "allowed_users": [124567899005]
+    },
+    "settings": {
+        "default_language": "en",
+        "default_exchange": "",
+        "default_mode": "spot"
+    },
+    "logging": {
+        "level": "DEBUG",
+        "file_log": false,
+        "file_path": "logs/bot.log",
+        "max_bytes": 1048576,
+        "backup_count": 5,
+        "console_log": true
+    }
+}

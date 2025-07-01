@@ -1,0 +1,4 @@
+# Required Python packages
+python-telegram-bot>=20.3
+ccxt>=4.1.59
+python-dotenv==1.0.0
