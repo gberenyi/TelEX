@@ -1,5 +1,5 @@
 config.json
-exchange_config.json
+exchange_configs.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
